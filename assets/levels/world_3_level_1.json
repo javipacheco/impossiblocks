@@ -1,0 +1,11 @@
+{
+    "levelType": "color-counter",
+    "counters": [1, 1],
+    "rows": 3,
+    "columns": 3,
+    "board": null,
+    "stars": {
+        "hight": 12,
+        "middle": 20
+    }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="firebase_ads_app_key" translatable="false">ca-app-pub-7214745186833434~8888193281</string>
+    <string name="firebase_ads_banner" translatable="false">ca-app-pub-7214745186833434/4850528313</string>
+    <string name="firebase_ads_interstitial" translatable="false">ca-app-pub-7214745186833434/7416981900</string>
+    <string name="firebase_ads_reward" translatable="false">ca-app-pub-7214745186833434/5867095737</string>
+</resources>

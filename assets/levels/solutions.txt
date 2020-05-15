@@ -1,0 +1,26 @@
+## World 2-1
+
+1. Deslizar columna 0 hacia arriba
+2. Pulsar 1x2
+
+## World 2-2
+
+1. Deslizar columna 0 hacia arriba
+2. Deslizar columna 2 hacia arriba
+3. Pulsar 1x0
+
+## World 2-3
+
+1. Deslizar fila 1 y bloquear
+2. Pulsar 1x2
+
+## World 2-4
+
+1. Deslizar columna 1 hacia arriba
+2. Deslizar fila 1 y bloquear
+3. Pulsar 1x2
+
+## World 2-5
+
+1. Deslizar columna 1 y bloquear
+2. Pulsar 2x1

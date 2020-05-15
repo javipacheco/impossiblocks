@@ -1,0 +1,28 @@
+{
+    "levelType": "color-counter",
+    "counters": [1, 1],
+    "rows": 3,
+    "columns": 3,
+    "board": null,
+    "stars": {
+        "hight": 12,
+        "middle": 20
+    },
+    "randomBoard": {
+        "typeTile": "ray",
+        "difficulty": 1
+    },
+    "assistance": {
+        "coins": 10,
+        "block": {
+            "afterMoves": 1
+        },
+        "fireman": null,
+        "ray": {
+            "afterMoves": 4
+        },
+        "brush": {
+            "afterMoves": 2
+        }
+    }
+}

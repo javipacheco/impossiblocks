@@ -1,0 +1,20 @@
+{
+    "levelType": "color-counter",
+    "counters": [1, 1],
+    "rows": 3,
+    "columns": 3,
+    "board": null,
+    "stars": {
+        "hight": 4,
+        "middle": 8
+    },
+    "assistance": {
+        "coins": 30,
+        "block": null,
+        "brush": {
+            "afterMoves": 0
+        },
+        "ray": null,
+        "fireman": null
+    }
+}
